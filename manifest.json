@@ -1,0 +1,24 @@
+{
+    "author": "Lucas Garcia",
+    "description": "Diccionario japonés | PWA",
+    "name": "Jiten",
+    "dir": "ltr",
+    "orientation": "any",
+    "scope": "./",
+    "start_url": "./",
+    "theme_color": "#b81f1f",
+    "background_color": "#b81f1f",
+    "display": "fullscreen",
+    "icons": [
+      {
+        "sizes": "16x16",
+        "type": "image/png",
+        "src": "./images/icons/logo-16x16.png"
+      },
+      {
+        "sizes": "144x144",
+        "type": "image/png",
+        "src": "./images/icons/logo-144x144.png"
+      }
+    ]
+  }

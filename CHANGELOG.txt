@@ -1,0 +1,49 @@
+﻿CHANGELOG
+
+
+En este documento deben escribir el diario de sus trabajos, incluyendo lo que realizaron, dudas o dificultades que enfrentaron y cómo las resolvieron. Si en alguna fecha no tienen nada para decir porque no le dedicaron tiempo a este trabajo práctico por la razón que fuere, pueden comentar simplemente "sin cambios".
+
+
+Los trabajos presentados sin este documento completo requerirán una defensa oral y/o escrita de todos los puntos que considere necesarios evaluar.
+
+
+01/06/2023 - Empecé desde el principio para optimizar el parcial número 1, seguido de eso hice varias pruebas con el localStorage para almacenar las búsquedas en una lista y un botón para eliminarlas.
+
+02/06/2023 - Sin cambios
+
+03/06/2023 - Sin cambios
+
+04/06/2023 - Sin cambios
+
+05/06/2023 - Sin cambios
+
+06/06/2023 - Sin cambios
+
+07/06/2023 - Sin cambios
+
+08/06/2023 - Sin cambios
+
+09/06/2023 - Hoy hice el indexedDB usando los métodos getAll, put, add y count. Estos métodos se ven reflejados en una nueva sección del sitio llamado “guardados”, que lleva una cuenta junto con todas las palabras guardadas por el usuario, cuyo significado puede ser editado, por ejemplo, cambiándolo a español o a lo que el usuario desee.
+
+10/06/2023 - Sin cambios
+
+11/06/2023 - Sin cambios
+
+12/06/2023 - Sin cambios
+
+13/06/2023 - Hoy realicé el cacheo con enfoque offline first, sin embargo tengo un error al cachear mi API, ya que el contenido de la misma se recibe de manera online.
+
+14/06/2023 - Fecha de entrega
+
+
+
+
+
+
+— 
+
+
+FUENTES O RECURSOS UTILIZADOS 
+
+
+Todo recurso externo que hayan utilizado para completar el trabajo lo documentan a continuación. Pueden poner la URL y una breve descripción de para qué les sirvió. Si usaron alguna herramienta tipo "Chat GPT" pueden poner una captura de pantalla de la pregunta y respuesta o copiar y pegar el diálogo.
